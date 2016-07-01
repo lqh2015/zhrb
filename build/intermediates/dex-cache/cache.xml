@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\asworkspace\ZHrb2\app\build\intermediates\exploded-aar\ZHrb2\android-observablescrollview-1.6.0\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d125b199a427e5cc8d4234f7d8673c9a27ef6336">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\pre-dexed\release\ZHrb2-android-observablescrollview-1.6.0-unspecified_6a1f2da3eb040b9a5a8b076ddaf2fab9c397bd3a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\asworkspace\ZHrb2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_06d2b287d96b47d119e64be9034f6566496c506e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\asworkspace\ZHrb2\nineoldandroids-2.4.0\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\pre-dexed\release\nineoldandroids-2.4.0_810367dec03aebfd9d8117d49976ae681dc879dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\adt-bundle-windows-x86_64-20140321\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\pre-dexed\release\support-annotations-23.4.0_40cf6786a0a3031c58cf81f542bab5a672c608d5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\asworkspace\ZHrb2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="bbfc7a9373d9ce5d4e68a9123f876d1aabf7b3b2">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cdbd55aed6f97ef75c5e066c86797f0d4d1a305c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\asworkspace\ZHrb2\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_6ff59263c8f9c7a368721d75b6a92ed17ee4b89b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\asworkspace\ZHrb2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_fc03a471ef625365aebf622667d36e7715c88096\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\asworkspace\ZHrb2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.4.0_d8442ffbba76959f85be2791d02a9f8afe1be198.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\asworkspace\ZHrb2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-8.1.0_d838996ba30bd3787188d61f76c4f236e21156cc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\asworkspace\ZHrb2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_d8442ffbba76959f85be2791d02a9f8afe1be198\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\asworkspace\ZHrb2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\pre-dexed\release\internal_impl-23.4.0_eb555b74735c5ee73b6189d651fb51f33fde909b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\asworkspace\ZHrb2\Volley\Volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\pre-dexed\release\Volley_72f289c1b09a3cc544af0f7b3001246827591a43.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\asworkspace\ZHrb2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_76543fd88b54997c6259819e73969f4dfd2f927f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\asworkspace\ZHrb2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.4.0_c7f5addbeffe5d9dc35dfeef66a134d225b5d884.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\asworkspace\ZHrb2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="49333c1f027618e9a9e1f0c2154b34ccbc06865d">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9ef263a077c5ffd104bd92edf173e9a37d8c43fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\asworkspace\ZHrb2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_c7f5addbeffe5d9dc35dfeef66a134d225b5d884\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\asworkspace\ZHrb2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.4.0_fc933e47f6346859cf64dfd02de37544ce0f9dd3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\asworkspace\ZHrb2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_eb555b74735c5ee73b6189d651fb51f33fde909b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\asworkspace\ZHrb2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_fc933e47f6346859cf64dfd02de37544ce0f9dd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\asworkspace\ZHrb2\gson-2.3.1\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\pre-dexed\release\gson-2.3.1_58bddf59a842e6d3dd26d950bdf7480ee2d2e3a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\asworkspace\ZHrb2\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\pre-dexed\release\com.android.support-design-23.4.0_6ff59263c8f9c7a368721d75b6a92ed17ee4b89b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\asworkspace\ZHrb2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-23.4.0_fc03a471ef625365aebf622667d36e7715c88096.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\adt-bundle-windows-x86_64-20140321\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_40cf6786a0a3031c58cf81f542bab5a672c608d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\asworkspace\ZHrb2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.4.0_76543fd88b54997c6259819e73969f4dfd2f927f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\asworkspace\ZHrb2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_239279756a090fe254f16f2c6ab6c502fecd1743\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\asworkspace\ZHrb2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_d838996ba30bd3787188d61f76c4f236e21156cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\asworkspace\ZHrb2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.4.0_06d2b287d96b47d119e64be9034f6566496c506e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\asworkspace\ZHrb2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-appindexing-8.1.0_239279756a090fe254f16f2c6ab6c502fecd1743.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\asworkspace\ZHrb2\picasso-2.5.2\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="F:\asworkspace\ZHrb2\app\build\intermediates\pre-dexed\release\picasso-2.5.2_e13b630792bad89bad0e89c33874ed49267c256d.jar" />
+    </item>
+
+</items>

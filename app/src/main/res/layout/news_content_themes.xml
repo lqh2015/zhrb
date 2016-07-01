@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.github.ksoichiro.android.observablescrollview.ObservableScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/scroll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:layout_marginTop="50dp"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_marginBottom="30dp"
+    android:layout_height="match_parent">
+<!--<RelativeLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="350dp">-->
+    <!--<ImageView-->
+    <!--android:id="@+id/top_image"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="@dimen/flexible_space_image_height"-->
+    <!--android:layout_alignParentTop="true"-->
+    <!--/>-->
+    <!--<ImageView-->
+        <!--android:id="@+id/top_image_overlay"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="@dimen/flexible_space_image_height"-->
+    <!--android:layout_alignParentTop="true"-->
+    <!--android:background="#000"-->
+    <!--android:alpha="0.5"-->
+    <!--/>-->
+    <!--<TextView-->
+    <!--android:id="@+id/top_title"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:textColor="@android:color/white"-->
+    <!--android:textSize="22sp"-->
+    <!--android:layout_marginLeft="15dp"-->
+    <!--android:layout_marginRight="15dp"-->
+    <!--android:layout_alignParentBottom="true"-->
+    <!--android:layout_marginBottom="20dp"-->
+    <!--/>-->
+    <!--&lt;!&ndash;<TextView&ndash;&gt;-->
+    <!--&lt;!&ndash;android:id="@+id/tv_image_source"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_width="wrap_content"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_height="wrap_content"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:textColor="@android:color/white"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:textSize="14sp"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_alignParentRight="true"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_alignParentBottom="true"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_marginBottom="8dp"&ndash;&gt;-->
+
+    <!--&lt;!&ndash;/>&ndash;&gt;-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/tv_image_source"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:textColor="@android:color/white"-->
+    <!--android:textSize="14sp"-->
+    <!--android:layout_marginTop="5dp"-->
+    <!--android:layout_alignParentRight="true"-->
+    <!--android:layout_alignParentBottom="true"-->
+    <!--android:layout_marginBottom="8dp"-->
+    <!--/>-->
+
+<!--</RelativeLayout>-->
+
+<com.github.ksoichiro.android.observablescrollview.ObservableWebView
+    android:id="@+id/webview"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+</com.github.ksoichiro.android.observablescrollview.ObservableWebView>
+
+<!--<android.support.v4.widget.NestedScrollView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:scrollbars="vertical"-->
+            <!--app:layout_behavior="@string/appbar_scrolling_view_behavior">-->
+
+            <!--<WebView-->
+                <!--android:id="@+id/webview"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="match_parent"></WebView>-->
+        <!--</android.support.v4.widget.NestedScrollView>-->
+
+
+</LinearLayout>
+</com.github.ksoichiro.android.observablescrollview.ObservableScrollView>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="android-observablescrollview-1.6.0-unspecified">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/ZHrb2/android-observablescrollview-1.6.0/unspecified/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/ZHrb2/android-observablescrollview-1.6.0/unspecified/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/android-observablescrollview-1.6.0-sources/android-observablescrollview-1.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

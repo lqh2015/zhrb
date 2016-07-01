@@ -1,0 +1,73 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="abc_action_bar_default_height_material">56.0dip</dimen>
+    <dimen name="abc_action_bar_default_padding_material">4.0dip</dimen>
+    <dimen name="abc_action_bar_icon_vertical_padding_material">16.0dip</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">40.0dip</dimen>
+    <dimen name="abc_action_bar_stacked_max_height">48.0dip</dimen>
+    <dimen name="abc_action_bar_stacked_tab_max_width">180.0dip</dimen>
+    <dimen name="abc_action_bar_subtitle_bottom_margin_material">5.0dip</dimen>
+    <dimen name="abc_action_bar_subtitle_top_margin_material">-3.0dip</dimen>
+    <dimen name="abc_action_button_min_height_material">48.0dip</dimen>
+    <dimen name="abc_action_button_min_width_material">48.0dip</dimen>
+    <dimen name="abc_action_button_min_width_overflow_material">36.0dip</dimen>
+    <dimen name="abc_config_prefDialogWidth">320.0dip</dimen>
+    <dimen name="abc_control_inset_material">4.0dip</dimen>
+    <dimen name="abc_control_padding_material">4.0dip</dimen>
+    <dimen name="abc_dropdownitem_icon_width">32.0dip</dimen>
+    <dimen name="abc_dropdownitem_text_padding_left">8.0dip</dimen>
+    <dimen name="abc_dropdownitem_text_padding_right">8.0dip</dimen>
+    <dimen name="abc_panel_menu_list_width">296.0dip</dimen>
+    <dimen name="abc_search_view_preferred_width">320.0dip</dimen>
+    <dimen name="abc_search_view_text_min_width">160.0dip</dimen>
+    <dimen name="abc_text_size_body_1_material">16.0sp</dimen>
+    <dimen name="abc_text_size_body_2_material">16.0sp</dimen>
+    <dimen name="abc_text_size_button_material">14.0sp</dimen>
+    <dimen name="abc_text_size_caption_material">12.0sp</dimen>
+    <dimen name="abc_text_size_display_1_material">34.0sp</dimen>
+    <dimen name="abc_text_size_display_2_material">45.0sp</dimen>
+    <dimen name="abc_text_size_display_3_material">56.0sp</dimen>
+    <dimen name="abc_text_size_display_4_material">112.0sp</dimen>
+    <dimen name="abc_text_size_headline_material">24.0sp</dimen>
+    <dimen name="abc_text_size_large_material">22.0sp</dimen>
+    <dimen name="abc_text_size_medium_material">18.0sp</dimen>
+    <dimen name="abc_text_size_menu_material">16.0sp</dimen>
+    <dimen name="abc_text_size_small_material">14.0sp</dimen>
+    <dimen name="abc_text_size_subhead_material">16.0sp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">16.0dip</dimen>
+    <dimen name="abc_text_size_title_material">20.0sp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">20.0dip</dimen>
+    <item type="dimen" name="dialog_fixed_height_major">79.99999%</item>
+    <item type="dimen" name="dialog_fixed_height_minor">100.0%</item>
+    <dimen name="dialog_fixed_width_major">320.0dip</dimen>
+    <dimen name="dialog_fixed_width_minor">320.0dip</dimen>
+    <item type="dimen" name="disabled_alpha_material_dark">0.3</item>
+    <item type="dimen" name="disabled_alpha_material_light">0.26</item>
+    <dimen name="fab_elevation_lollipop">8.0dip</dimen>
+    <dimen name="fab_min_significant_scroll">4.0dip</dimen>
+    <dimen name="fab_mini_shadow_size">6.0dip</dimen>
+    <dimen name="fab_shadow_size">8.0dip</dimen>
+    <dimen name="fab_size_mini">40.0dip</dimen>
+    <dimen name="fab_size_normal">56.0dip</dimen>
+    <dimen name="flexible_space_height">72.0dip</dimen>
+    <dimen name="flexible_space_image_height">350.0dip</dimen>
+    <dimen name="flexible_space_show_fab_offset">120.0dip</dimen>
+    <dimen name="header_bar_height">72.0dip</dimen>
+    <dimen name="intersection_height">16.0dip</dimen>
+    <dimen name="margin_extra_short">4.0dip</dimen>
+    <dimen name="margin_short">8.0dip</dimen>
+    <dimen name="margin_standard">16.0dip</dimen>
+    <dimen name="parallax_image_height">180.0dip</dimen>
+    <dimen name="sliding_overlay_blur_size">4.0dip</dimen>
+    <dimen name="sliding_slop">32.0dip</dimen>
+    <dimen name="tab_height">48.0dip</dimen>
+    <dimen name="toolbar_elevation">4.0dip</dimen>
+    <dimen name="toolbar_margin_start">72.0dip</dimen>
+</resources>

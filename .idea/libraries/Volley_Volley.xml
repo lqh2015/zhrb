@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Volley.Volley">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Volley/Volley.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
